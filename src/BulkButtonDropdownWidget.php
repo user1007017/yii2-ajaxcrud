@@ -4,7 +4,7 @@ namespace johnitvn\ajaxcrud;
 use yii\base\Widget;
 use yii\helpers\Html;
 
-class BulkButtonWidget extends Widget{
+class BulkButtonDropdownWidget extends Widget{
 
 	public $buttons;
 	
